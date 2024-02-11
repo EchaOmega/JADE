@@ -1,0 +1,157 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "a95f4fb48b38ba589e989cb4e79ac029",
+      "info": {
+        "title": "Jade",
+        "artist": "Ezame",
+        "genre": "NaAlSi₂O₆",
+        "subtitles": [
+          "[5Beginner]"
+        ],
+        "subartists": [
+          "movie : Nima / obj : Echa"
+        ],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 226,
+      "bpm": {
+        "init": 250,
+        "min": 250,
+        "median": 250,
+        "max": 250
+      },
+      "duration": 135.12,
+      "scratch": true,
+      "keys": "5K",
+      "file": "____SP5B.bms"
+    },
+    {
+      "md5": "02f4768493c147fee8813b8b3678662b",
+      "info": {
+        "title": "Jade",
+        "artist": "Ezame",
+        "genre": "NaAlSi₂O₆",
+        "subtitles": [
+          "[5Hyper]"
+        ],
+        "subartists": [
+          "movie : Nima / obj : Echa"
+        ],
+        "difficulty": 3,
+        "level": 6
+      },
+      "noteCount": 657,
+      "bpm": {
+        "init": 250,
+        "min": 250,
+        "median": 250,
+        "max": 250
+      },
+      "duration": 135.12,
+      "scratch": true,
+      "keys": "5K",
+      "file": "____SP5H.bms"
+    },
+    {
+      "md5": "e13c9af5d43ea6067aa7cee1cd6d4976",
+      "info": {
+        "title": "Jade",
+        "artist": "Ezame",
+        "genre": "NaAlSi₂O₆",
+        "subtitles": [
+          "[Another]"
+        ],
+        "subartists": [
+          "movie : Nima / obj : Echa"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1371,
+      "bpm": {
+        "init": 250,
+        "min": 250,
+        "median": 250,
+        "max": 250
+      },
+      "duration": 135.12,
+      "scratch": true,
+      "keys": "7K",
+      "file": "____SP7A.bme"
+    },
+    {
+      "md5": "ef88a5a5e0683824958d1cfb1bd85c5d",
+      "info": {
+        "title": "Jade",
+        "artist": "Ezame",
+        "genre": "NaAlSi₂O₆",
+        "subtitles": [
+          "[Hyper]"
+        ],
+        "subartists": [
+          "movie : Nima / obj : Echa"
+        ],
+        "difficulty": 3,
+        "level": 8
+      },
+      "noteCount": 872,
+      "bpm": {
+        "init": 250,
+        "min": 250,
+        "median": 250,
+        "max": 250
+      },
+      "duration": 135.12,
+      "scratch": true,
+      "keys": "7K",
+      "file": "____SP7H.bme"
+    },
+    {
+      "md5": "c76fa0ca7f2f7d2f40a05a4f68ec934e",
+      "info": {
+        "title": "Jade",
+        "artist": "Ezame",
+        "genre": "NaAlSi₂O₆",
+        "subtitles": [
+          "[Normal]"
+        ],
+        "subartists": [
+          "movie : Nima / obj : Echa"
+        ],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 575,
+      "bpm": {
+        "init": 250,
+        "min": 250,
+        "median": 250,
+        "max": 250
+      },
+      "duration": 135.12,
+      "scratch": true,
+      "keys": "7K",
+      "file": "____SP7N.bme"
+    }
+  ],
+  "title": "Jade",
+  "artist": "Ezame",
+  "genre": "NaAlSi₂O₆",
+  "bpm": 250,
+  "replaygain": "-9.01 dB",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "preview_offset": 54.7,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/ezame/jade",
+  "bms_url": "https://venue.bmssearch.net/letsbmsedit2/6",
+  "youtube_url": "https://www.youtube.com/watch?v=2af93Me79u4",
+  "artist_url": "https://twitter.com/Ez4melIy",
+  "readme": "README.md",
+  "bmssearch_id": "kxvCS-AGmaRAZs",
+  "video_offset": 1
+}
